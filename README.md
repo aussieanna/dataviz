@@ -4,10 +4,13 @@ This website is designed to show examples of personal data visualisation project
 
 I have studied biomedical science and applied epidemiology and am always looking to expand on and improve my data analysis/visualisation skills.  
 
-When I first became interested in data visualisation I started using Tableau Public and really enjoyed how intuitive it is to use. I have also recently become interested in learning how to use R and have taught myself some skills using the numerous excellent online resources that are available.  
+When I first became interested in data visualisation I started using [Tableau Public](https://public.tableau.com/s/) and really enjoyed how intuitive it is to use. I have also recently become interested in learning how to use R and [RStudio](https://www.rstudio.com/) and have taught myself some skills using the numerous excellent online resources that are available.  
 
-* [Home](README.md)
-* About
-* Projects
-* Blog
-* Get in touch
+* [Home](index.html)
+* [About](About.html)
+* [Projects](Projects.html)
+* [Blog](Blog.html)
+* [Get in touch](Getintouch.html)
+
+![Twitter](images/twitter.png) ![Email](images/gmail.png) ![Github](images/github.png)
+![Tableau](images/Tableau.png)
