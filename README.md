@@ -12,5 +12,5 @@ When I first became interested in data visualisation I started using [Tableau Pu
 * [Blog](Blog.html)
 * [Get in touch](Getintouch.html)
 
-![Twitter](images/twitter.png) ![Email](images/gmail.png) ![Github](images/github.png)
-![Tableau](images/Tableau.png)
+![Twitter](twitter.png) ![Email](gmail.png) ![Github](github.png)
+![Tableau](Tableau.png)
