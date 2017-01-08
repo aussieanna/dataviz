@@ -12,5 +12,5 @@ When I first became interested in data visualisation I started using [Tableau Pu
 * [Blog](Blog.html)
 * [Get in touch](Getintouch.html)
 
-![Twitter](twitter.jpg) ![Email](Gmail.jpg) [![Github](github.jpg)](https://github.com/aussieanna)
-[![Tableau](Tableau.jpg)](https://public.tableau.com/profile/anna2013#!/)
+[![Twitter](images/twitter.jpg)](https://twitter.com/annareynolds01?s=03) [![Email](images/gmail.jpg)](mailto:annareynolds01@gmail.com) [![Github](images/github.jpg)](https://github.com/aussieanna)
+[![Tableau](images/Tableau.jpg)](https://public.tableau.com/profile/anna2013#!/)
